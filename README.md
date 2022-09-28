@@ -29,7 +29,7 @@ This application uses MongoDB, Mongoose, and Express.  Download the app and then
 A backend database for an up and coming pizzas network! 
 
 
-## Links!
+## Links
 
 
 The url of the Git repository is here: https://github.com/Samantha-Ruth/Pizza-Hunt
