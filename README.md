@@ -24,7 +24,9 @@ This application uses MongoDB, Mongoose, and Express.  Download the app and then
 <img width="1437" alt="Screen Shot 2022-09-28 at 9 23 28 AM" src="https://user-images.githubusercontent.com/64170123/192820440-47443bf2-397a-4de4-a86a-3b1567cf27fc.png">
 <img width="1437" alt="Screen Shot 2022-09-28 at 9 23 40 AM" src="https://user-images.githubusercontent.com/64170123/192820458-98ae1ce5-b73b-4f34-bc10-d66e7d788130.png">
 
-## Usage<img width="1440" alt="Screen Shot 2022-09-28 at 9 25 08 AM" src="https://user-images.githubusercontent.com/64170123/192820475-015a1bff-da6e-4d45-8feb-185d9fa3981e.png">
+<img width="1440" alt="Screen Shot 2022-09-28 at 9 25 08 AM" src="https://user-images.githubusercontent.com/64170123/192820475-015a1bff-da6e-4d45-8feb-185d9fa3981e.png">
+
+## Usage
 
 A backend database for an up and coming pizzas network! 
 
