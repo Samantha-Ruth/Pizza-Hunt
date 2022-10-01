@@ -33,6 +33,7 @@ A backend database for an up and coming pizzas network!
 
 ## Links
 
+Link to the deployed application: https://salty-headland-33729.herokuapp.com
 
 The url of the Git repository is here: https://github.com/Samantha-Ruth/Pizza-Hunt
 
