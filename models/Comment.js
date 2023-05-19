@@ -1,8 +1,7 @@
 const { Schema, model, Types } = require('mongoose');
 const dateFormat = require('../utils/dateFormat');
 
-const ReplySchema = new Schema(
-    {
+const ReplySchema = new Schema({
       // set custom id to avoid confusion with parent comment's _id field
       replyId: {
         type: Schema.Types.ObjectId,
